@@ -3,8 +3,8 @@
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/Flutter-339933?style=flat-square&logo=Flutter&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Django-47A248?style=flat-square&logo=Django&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
