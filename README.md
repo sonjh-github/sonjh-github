@@ -1,10 +1,6 @@
 ### Hi there 👋
 ### 
-<a href="http://melonicedlatte.com/">
-    
-    <img src="https://img.shields.io/badge/<Title>-<MESSAGE>-<COLOR>"
-        style="height : auto; margin-left : 8px; margin-right : 8px;"/>
-</a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 
 
